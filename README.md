@@ -4,9 +4,8 @@
 
 can be used for screening processes for employers hiring process
 
-`
 output::
-`
+
 scanning... url = https://twitter.com/neilriordan
 scanning... url = https://twitter.com/ahmad_assi97
 key: ass  found: 1
